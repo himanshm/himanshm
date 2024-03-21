@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+# Hi 👋 I am Himanshu Mishra!
+
 <!--
 **himanshm/himanshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
