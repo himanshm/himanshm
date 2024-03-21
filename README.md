@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
 <!--
 **himanshm/himanshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
